@@ -1,7 +1,9 @@
+h1, h2, .price {
+  font-family: Helvetica;
+}
 h1 {
 
   background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg);
-  font-family: Helvetica;
   font-size: 100px;
   font-weight: bold;
   color: khaki;
@@ -11,7 +13,6 @@ h1 {
 
 h2 {
   color: white;
-  font-family: Helvetica;
   font-size: 32px;
   font-weight: bold;
 }
@@ -26,6 +27,5 @@ h2 {
     }
   .price{
       color: blue;
-      font-family: Helvetica;
       font-weight: bold;
     }
